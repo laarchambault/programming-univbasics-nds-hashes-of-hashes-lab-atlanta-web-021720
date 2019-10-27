@@ -32,9 +32,9 @@
 
 def naming_system
 bio_array = [PORTION_1]
-bio_array[:sub_category][:sub_category][:sub_category] = PORTION_2
-bio_array[:sub_category][:sub_category][:sub_category][:sub_category] = PORTION_3
-bio_array[:sub_category][:sub_category][:sub_category][:sub_category][:sub_category] = PORTION_4
+#bio_array[:sub_category][:sub_category][:sub_category] = PORTION_2
+#bio_array[:sub_category][:sub_category][:sub_category][:sub_category] = PORTION_3
+#bio_array[:sub_category][:sub_category][:sub_category][:sub_category][:sub_category] = PORTION_4
   
   # Remember:
   #  Kingdom
